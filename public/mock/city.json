@@ -1,0 +1,277 @@
+{
+  "ref": true,
+  "currentCity": ["厦门市", "北京市", "武汉市", "乌龙木齐市", "深圳市"],
+  "hotCity": ["北京市", "上海市", "深圳市", "广州市", "杭州市", "南京市", "福州市", "长沙市", "厦门市", "武汉市"],
+  "citys": {
+    "A": [{
+      "id": "1",
+      "name": "阿尔法",
+      "spell": "aerfa"
+    }, {
+      "id": "2",
+      "name": "阿里巴巴",
+      "spell": "alibaba"
+    }, {
+      "id": "3",
+      "name": "爱尔兰",
+      "spell": "aierlan"
+    }, {
+      "id": "4",
+      "name": "阿贝",
+      "spell": "abei"
+    }, {
+      "id": "5",
+      "name": "阿克苏",
+      "spell": "akesu"
+    }, {
+      "id": "6",
+      "name": "阿拉善德",
+      "spell": "alashande"
+    }],
+    "B": [{
+      "id": "7",
+      "name": "北京",
+      "spell": "beijing"
+    }, {
+      "id": "8",
+      "name": "北极",
+      "spell": "beiji"
+    }, {
+      "id": "9",
+      "name": "北海道",
+      "spell": "beiaidao"
+    }, {
+      "id": "10",
+      "name": "霸州",
+      "spell": "bazhou"
+    }],
+    "C": [{
+      "id": "11",
+      "name": "柴珊",
+      "spell": "caishang"
+    }, {
+      "id": "12",
+      "name": "差不离",
+      "spell": "chabuli"
+    }, {
+      "id": "208",
+      "name": "重庆市",
+      "spell": "chongqingshi"
+    }],
+    "D": [{
+      "id": "13",
+      "name": "达丽卜",
+      "spell": "dalibu"
+    }, {
+      "id": "14",
+      "name": "德洲",
+      "spell": "dezhou"
+    }],
+    "E": [{
+      "id": "15",
+      "name": "恩爱里市",
+      "spell": "enailishi"
+    }, {
+      "id": "16",
+      "name": "而嘉实市",
+      "spell": "erjiashi"
+    }, {
+      "id": "207",
+      "name": "恩施市",
+      "spell": "enshishi"
+    }],
+    "F": [{
+      "id": "17",
+      "name": "福州",
+      "spell": "fuzhou"
+    }, {
+      "id": "18",
+      "name": "弗洛伊德",
+      "spell": "fuluoyide"
+    }],
+    "G": [{
+      "id": "19",
+      "name": "广州市",
+      "spell": "guoanshi"
+    }, {
+      "id": "20",
+      "name": "锅贴市",
+      "spell": "guotieshi"
+    }],
+    "H": [{
+      "id": "21",
+      "name": "杭州市",
+      "spell": "haluoshi"
+    }, {
+      "id": "22",
+      "name": "哈不理",
+      "spell": "habuli"
+    }, {
+      "id": "201",
+      "name": "黑龙江市",
+      "spell": "heilongjiangshi"
+    }, {
+      "id": "205",
+      "name": "黄石市",
+      "spell": "huangshishi"
+    }, {
+      "id": "206",
+      "name": "衡山市",
+      "spell": "hengshanshi"
+    }],
+    "I": [],
+    "J": [{
+      "id": "23",
+      "name": "吉吉市",
+      "spell": "jijishi"
+    }, {
+      "id": "24",
+      "name": "酒吧市",
+      "spell": "jiubashi"
+    }, {
+      "id": "200",
+      "name": "焦作市",
+      "spell": "jiaozuoshi"
+    }],
+    "K": [{
+      "id": "25",
+      "name": "卡洛市",
+      "spell": "kaluoshi"
+    }, {
+      "id": "26",
+      "name": "卡尔市",
+      "spell": "kaershi"
+    }],
+    "L": [{
+      "id": "27",
+      "name": "立德市",
+      "spell": "lideshi"
+    }, {
+      "id": "28",
+      "name": "辣鸡市",
+      "spell": "lajishi"
+    }],
+    "M": [{
+      "id": "29",
+      "name": "玛丽市",
+      "spell": "malishi"
+    }, {
+      "id": "30",
+      "name": "木马市",
+      "spell": "mumashi"
+    }],
+    "N": [{
+      "id": "31",
+      "name": "娜娜市",
+      "spell": "nanashi"
+    }, {
+      "id": "32",
+      "name": "娜丽市",
+      "spell": "nalishi"
+    }, {
+      "id": "209",
+      "name": "南京市",
+      "spell": "nanjingshi"
+    }, {
+      "id": "210",
+      "name": "宁波市",
+      "spell": "ningboshi"
+    }],
+    "O": [{
+      "id": "33",
+      "name": "欧尔市",
+      "spell": "ouershi"
+    }, {
+      "id": "34",
+      "name": "欧几里得",
+      "spell": "oujilide"
+    }],
+    "P": [{
+      "id": "35",
+      "name": "皮特市",
+      "spell": "piteshi"
+    }, {
+      "id": "36",
+      "name": "皮卡市",
+      "spell": "pikashi"
+    }],
+    "Q": [{
+      "id": "37",
+      "name": "齐步市",
+      "spell": "qibushi"
+    }, {
+      "id": "38",
+      "name": "琪琪市",
+      "spell": "qiqishi"
+    }],
+    "R": [{
+      "id": "39",
+      "name": "入力市",
+      "spell": "rulishi"
+    }, {
+      "id": "40",
+      "name": "茹汝市",
+      "spell": "rurushi"
+    }],
+    "S": [{
+      "id": "41",
+      "name": "深圳市",
+      "spell": "shenzheng"
+    }, {
+      "id": "42",
+      "name": "上海市",
+      "spell": "shanghai"
+    }, {
+      "id": "203",
+      "name": "十堰市",
+      "spell": "shiyanshi"
+    }],
+    "T": [{
+      "id": "43",
+      "name": "特步市",
+      "spell": "tebushi"
+    }, {
+      "id": "44",
+      "name": "踏步市",
+      "spell": "tabushi"
+    }, {
+      "id": "212",
+      "name": "天门市",
+      "spell": "tianmenshi"
+    }],
+    "U": [],
+    "V": [],
+    "W": [{
+      "id": "45",
+      "name": "武汉市",
+      "spell": "wuhan"
+    }, {
+      "id": "211",
+      "name": "温州市",
+      "spell": "wenzhoushi"
+    }],
+    "X": [{
+      "id": "46",
+      "name": "厦门市",
+      "spell": "xiamenshi"
+    }],
+    "Y": [{
+      "id": "47",
+      "name": "宜州市",
+      "spell": "yizhoushi"
+    }, {
+      "id": "48",
+      "name": "宜昌市",
+      "spell": "yichangshi"
+    }],
+    "Z": [{
+      "id": "49",
+      "name": "郑州",
+      "spell": "zhengzhou"
+    }, {
+      "id": "50",
+      "name": "张家界市",
+      "spell": "张家界"
+    }]
+  }
+}

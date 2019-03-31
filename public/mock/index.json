@@ -1,0 +1,162 @@
+{
+  "city": "厦门",
+  "recommendList": [
+    {
+      "tips": "",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1812/1e/1e44623f8502f6a5a3.img.png_200x200_3ebe2fdf.png",
+      "title": "世茂云上厦门观光厅",
+      "grade": 7,
+      "comment": "3402条评论",
+      "price": "99",
+      "adress": "思明区"
+    },
+    {
+      "tips": "随走随用",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/97/ea51af995c4d4de85c53855302b2f5af.water.jpg_200x200_ee569936.jpg",
+      "title": "鼓浪屿往返轮渡",
+      "grade": 10,
+      "comment": "34232条评论",
+      "price": "28",
+      "adress": "鼓浪屿"
+    },
+    {
+      "tips": "",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/da/273e834ab7e13fd5a51751d57d20f828.water.jpg_200x200_89988804.jpg",
+      "title": "厦门日月谷温泉渡假村",
+      "grade": 8.5,
+      "comment": "3452条评论",
+      "price": "185",
+      "adress": "海沧区"
+    },
+    {
+      "tips": "随走随用",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201309/09/dbde58a394d3bba3c8d65eac.jpg_200x200_db515a0b.jpg",
+      "title": "双龙潭生态运动景区",
+      "grade": 8.5,
+      "comment": "3999条评论",
+      "price": "145",
+      "adress": "集美区"
+    },
+    {
+      "tips": "",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1711/4f/4fba5e793fe8ef5ca3.img.jpg_200x200_d6461d0f.jpg",
+      "title": "厦门园林植物园",
+      "grade": 5,
+      "comment": "4535条评论",
+      "price": "30",
+      "adress": "思明区"
+    },
+    {
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1607/a0/a03d4061fa5a6b68b4.img.jpg_200x200_b5486d6f.jpg",
+      "tips": "",
+      "title": "盛之乡温泉渡假村",
+      "grade": 9.2,
+      "comment": "5535条评论",
+      "price": "159",
+      "adress": "同安区"
+    },
+    {
+      "tips": "",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1801/eb/eb3c7437b3f39e10a3.img.jpg_200x200_db6fd7b1.jpg",
+      "title": "钟鼓索道",
+      "grade": 6.6,
+      "comment": "235条评论",
+      "price": "60",
+      "adress": "思明区"
+    },
+    {
+      "tips": "随走随用",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/30/0dded68a9e555de2e6eaf3f86325061a.jpg_200x200_74c0671b.jpg",
+      "title": "红地毯趣味蜡像馆",
+      "grade": 8.8,
+      "comment": "3199条评论",
+      "price": "48",
+      "adress": "鼓浪屿"
+    }
+  ],
+  "Swiper": {
+    "swiperImgList": [{
+      "id": "001",
+      "url": "http://img1.qunarzz.com/piao/fusion/1812/a8/90d66a621daf6802.jpg_750x200_d479b789.jpg"
+    }, {
+      "id": "002",
+      "url": "http://img1.qunarzz.com/piao/fusion/1812/e0/7aed5dde53dabe02.jpg_750x200_9b7a65fd.jpg"
+    }, {
+      "id": "003",
+      "url": "http://img1.qunarzz.com/piao/fusion/1811/7c/8e5c4ab8ee8b7402.jpg_750x200_dd7a38dd.jpg"
+    }, {
+      "id": "004",
+      "url": "http://img1.qunarzz.com/piao/fusion/1810/a0/6137912356b0d302.jpg_750x200_1a4488d7.jpg"
+    }, {
+      "id": "005",
+      "url": "http://img1.qunarzz.com/piao/fusion/1811/b7/1e9c4ca462741f02.jpg_750x200_842d5261.jpg"
+    }, {
+      "id": "006",
+      "url": "http://img1.qunarzz.com/piao/fusion/1809/12/856f100069809e02.jpg_750x200_e3485a2b.jpg"
+    }, {
+      "id": "007",
+      "url": "http://img1.qunarzz.com/piao/fusion/1811/a8/cb43c4ac6c215d02.jpg_750x200_83dee994.jpg"
+    }]
+  },
+  "icons": {
+    "iconData": [{
+      "id": "01",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "text": "景点门票"
+    }, {
+      "id": "02",
+      "url": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "text": "一日游"
+    }, {
+      "id": "03",
+      "url": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "text": "厦门必游"
+    }, {
+      "id": "04",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+      "text": "鼓浪屿"
+    }, {
+      "id": "05",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+      "text": "自然风光"
+    }, {
+      "id": "06",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+      "text": "游乐场"
+    }, {
+      "id": "07",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+      "text": "两江夜游"
+    }, {
+      "id": "08",
+      "url": "http://img1.qunarzz.com/piao/fusion/1811/5e/c640ec3b7d7ae802.png",
+      "text": "打卡圣地"
+    }, {
+      "id": "09",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/ee/5114069893722102.png",
+      "text": "厦门观音山"
+    }, {
+      "id": "10",
+      "url": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+      "text": "全部玩乐"
+    }]
+  },
+  "weekendData": [
+    {
+    "imgSrc": "http://img1.qunarzz.com/sight/source/1711/15/1cdd5ee885686b.jpg_r_640x214_46768064.jpg",
+    "mainText": "厦门必打卡",
+    "subText": "来厦门感受一把小资情调"
+  },{
+    "imgSrc": "https://imgs.qunarzz.com/sight/source/1511/8f/bf3a40e4afcf29.jpg_r_640x214_90225212.jpg",
+    "mainText": "泉心泉意",
+    "subText": "这个冬天不干燥，养生养颜休闲一举两得，这里有厦门独特的温泉渡假旅游区"
+  },{
+    "imgSrc": "https://imgs.qunarzz.com/sight/source/1505/81/b178edc1197700.jpg_r_640x214_9acee897.jpg",
+    "mainText": "厦门娱乐万岁",
+    "subText": "谁说来厦门就要去鼓浪屿？其实不登鼓浪屿也有新玩法，去探寻你不知道的海底世界"
+  },{
+    "imgSrc": "https://imgs.qunarzz.com/sight/source/1505/b3/671f666cc7845a.jpg_r_640x214_f977f30c.jpg",
+    "mainText": "帆船游艇出海",
+    "subText": "乘风破浪，直挂云帆济沧海，今天真正感受这个场景，感受迎风，横风，顺风的航行"
+  }]
+}
